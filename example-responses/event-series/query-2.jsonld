@@ -67,8 +67,9 @@
   "imin:aggregateOffer": {
     "publicAdult": {
       "type": "AggregateOffer",
-      "price": 9.33,
-      "imin:membershipRequired": false,
+      "lowPrice": 9.33,
+      "highPrice": 15.10,
+      "imin:membershipRequired": true,
       "priceCurrency": "GBP"
     },
     "publicJunior": {
