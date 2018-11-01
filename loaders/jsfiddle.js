@@ -37,6 +37,11 @@ function getEnumMap(metaJson) {
   return new Map(items.map(i => [i.id, i.name]));
 }
 
+function enumMapperFactory(metaJson) {
+	const enumIndex = getEnumMap(metaJson);
+  return array => enumIndex.get(array);
+}
+
 // Fills out the data based on the compacted imin:locationSummary representation
 // used in /event-series/:id, to match the same structure as search results in /event-series?
 function augmentLocations(data) {
