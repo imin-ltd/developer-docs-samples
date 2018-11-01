@@ -2,9 +2,10 @@
   "type": "EventSeries",
   "activity": [
     {
+      "id": "https://openactive.io/activity-list#fe2c9859-aa69-43c5-bcc3-ba5a6c7d9815",
       "type": "Concept",
-      "id": "https://openactive.io/activity-list#5fba2a76-07ee-4f99-b243-018245b0200d",
-      "prefLabel": "Mountaineering"
+      "inScheme": "https://openactive.io/activity-list",
+      "prefLabel": "Clubbercise Kids"
     }
   ],
   "ageRange": {
