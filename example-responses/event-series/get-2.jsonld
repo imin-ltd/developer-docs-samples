@@ -1260,6 +1260,14 @@
             "beta:OnlinePrepayment",
             "beta:TelephonePrepayment"
           ]
+        },
+        {
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#booking-member-free",
+          "type": "Offer",
+          "price": 0,
+          "eligibleCustomerType": [
+            "beta:Member"
+          ]
         }
       ],
       "category": [
