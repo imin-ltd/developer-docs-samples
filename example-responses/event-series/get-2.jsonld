@@ -212,6 +212,7 @@
     {
       "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400",
       "type": "SessionSeries",
+      "id": "series-1",
       "leader": [
         {
           "id": "https://lorem-fitsum.herokuapp.com/api/leaders/2214",
@@ -661,6 +662,7 @@
     {
       "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400",
       "type": "SessionSeries",
+      "id": "series-2",
       "leader": [
         {
           "id": "https://lorem-fitsum.herokuapp.com/api/leaders/2214",
@@ -1110,6 +1112,7 @@
     {
       "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400",
       "type": "SessionSeries",
+      "id": "series-3",
       "leader": [
         {
           "id": "https://lorem-fitsum.herokuapp.com/api/leaders/2214",
