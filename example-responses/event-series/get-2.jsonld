@@ -169,9 +169,10 @@
   "imin:aggregateOffer": {
     "publicAdult": {
       "type": "AggregateOffer",
-      "price": 9.33,
+      "lowPrice": 9.33,
+      "highPrice": 15.10,
       "priceCurrency": "GBP",
-      "imin:membershipRequired": false
+      "imin:membershipRequired": true
     },
     "publicJunior": {
       "type": "AggregateOffer",
