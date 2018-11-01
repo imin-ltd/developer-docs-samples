@@ -1,0 +1,1807 @@
+{
+  "type": "EventSeries",
+  "activity": [
+    {
+      "id": "https://openactive.io/activity-list#5fba2a76-07ee-4f99-b243-018245b0200d",
+      "type": "Concept",
+      "inScheme": "https://openactive.io/activity-list",
+      "prefLabel": "Mountaineering"
+    }
+  ],
+  "ageRange": {
+    "type": "QuantitativeValue",
+    "maxValue": 29,
+    "minValue": 21
+  },
+  "genderRestriction": "oa:NoRestriction",
+  "isCoached": false,
+  "imin:level": [
+    {
+      "name": "Intermediate",
+      "type": "imin:IntermediateLevel"
+    },
+    {
+      "name": "Advanced",
+      "type": "imin:AdvancedLevel"
+    }
+  ],
+  "programme": {
+    "url": "http://demetrius.info",
+    "logo": {
+      "url": "https://s3.amazonaws.com/uifaces/faces/twitter/xilantra/128.jpg",
+      "type": "ImageObject"
+    },
+    "name": "This Girl Can",
+    "type": "Brand",
+    "beta:video": "https://www.youtube.com/watch?v=N268gBOvnzo",
+    "description": "Iure itaque ex natus soluta et natus. Provident veniam asperiores. Sit deserunt consequuntur. Aliquid nostrum et. Est eligendi maxime blanditiis quia. Voluptas maxime ut neque.\n \rFacilis iure suscipit consequatur sed voluptatibus quae cumque et. Hic enim eum repellendus. Et qui possimus iste odit impedit. Harum quibusdam aperiam sunt autem delectus iste.\n \rQuia tempore enim hic quibusdam ratione. Qui magnam quasi. Consequatur sit non accusamus atque corporis et est magnam. Sunt dolorem ea et ut corrupti. Assumenda et sunt eum fugit esse maiores. Enim accusantium possimus consequuntur velit ullam.\n \rQuasi est ut accusamus. Cumque molestias ullam ipsam. Aliquam et eaque. Vel qui hic quas voluptatem incidunt. Dolore est facere quia non ratione sapiente quo autem."
+  },
+  "description": "Eveniet qui architecto officia dolor quidem veritatis. Exercitationem voluptatem nihil animi. Officiis minima inventore. Porro magnam et sapiente ducimus. Qui illum accusamus aliquid aut ipsam. Qui libero delectus consequatur excepturi blanditiis eaque totam.\n \rUt rem aut nisi sunt excepturi maiores. Consectetur velit unde ut adipisci harum laborum dolorem. Possimus repudiandae laboriosam consequuntur et qui.\n \rVoluptatem ipsum rem laboriosam aut ea nihil praesentium aut. Nesciunt consequatur inventore. In consequatur eius. Incidunt cumque dolor dignissimos magni quos rerum omnis consequatur. Labore libero ut. Ut nobis fugiat saepe eius id similique nulla labore asperiores.\n \rRerum autem nihil. Est tenetur suscipit autem in dolorum ipsam ipsam architecto. Eius harum soluta quam dolor error.",
+  "beta:estimatedDuration": {
+    "type": "QuantitativeValue",
+    "value": 30,
+    "unitCode": "MIN"
+  },
+  "image": [
+    {
+      "url": "https://picsum.photos/1024/768?image=377",
+      "type": "ImageObject",
+      "thumbnail": [
+        {
+          "url": "https://picsum.photos/672/414?image=377",
+          "type": "ImageObject",
+          "width": "672 px",
+          "height": "414 px"
+        },
+        {
+          "url": "https://picsum.photos/300/200?image=377",
+          "type": "ImageObject",
+          "width": "300 px",
+          "height": "200 px"
+        },
+        {
+          "url": "https://picsum.photos/100/100?image=377",
+          "type": "ImageObject",
+          "width": "100 px",
+          "height": "100 px"
+        }
+      ]
+    },
+    {
+      "url": "https://picsum.photos/1024/768?image=985",
+      "type": "ImageObject",
+      "thumbnail": [
+        {
+          "url": "https://picsum.photos/672/414?image=985",
+          "type": "ImageObject",
+          "width": "672 px",
+          "height": "414 px"
+        },
+        {
+          "url": "https://picsum.photos/300/200?image=985",
+          "type": "ImageObject",
+          "width": "300 px",
+          "height": "200 px"
+        },
+        {
+          "url": "https://picsum.photos/100/100?image=985",
+          "type": "ImageObject",
+          "width": "100 px",
+          "height": "100 px"
+        }
+      ]
+    },
+    {
+      "url": "https://picsum.photos/1024/768?image=1045",
+      "type": "ImageObject",
+      "thumbnail": [
+        {
+          "url": "https://picsum.photos/672/414?image=1045",
+          "type": "ImageObject",
+          "width": "672 px",
+          "height": "414 px"
+        },
+        {
+          "url": "https://picsum.photos/300/200?image=1045",
+          "type": "ImageObject",
+          "width": "300 px",
+          "height": "200 px"
+        },
+        {
+          "url": "https://picsum.photos/100/100?image=1045",
+          "type": "ImageObject",
+          "width": "100 px",
+          "height": "100 px"
+        }
+      ]
+    },
+    {
+      "url": "https://picsum.photos/1024/768?image=1019",
+      "type": "ImageObject",
+      "thumbnail": [
+        {
+          "url": "https://picsum.photos/672/414?image=1019",
+          "type": "ImageObject",
+          "width": "672 px",
+          "height": "414 px"
+        },
+        {
+          "url": "https://picsum.photos/300/200?image=1019",
+          "type": "ImageObject",
+          "width": "300 px",
+          "height": "200 px"
+        },
+        {
+          "url": "https://picsum.photos/100/100?image=1019",
+          "type": "ImageObject",
+          "width": "100 px",
+          "height": "100 px"
+        }
+      ]
+    },
+    {
+      "url": "https://picsum.photos/1024/768?image=375",
+      "type": "ImageObject",
+      "thumbnail": [
+        {
+          "url": "https://picsum.photos/672/414?image=375",
+          "type": "ImageObject",
+          "width": "672 px",
+          "height": "414 px"
+        },
+        {
+          "url": "https://picsum.photos/300/200?image=375",
+          "type": "ImageObject",
+          "width": "300 px",
+          "height": "200 px"
+        },
+        {
+          "url": "https://picsum.photos/100/100?image=375",
+          "type": "ImageObject",
+          "width": "100 px",
+          "height": "100 px"
+        }
+      ]
+    }
+  ],
+  "isAccessibleForFree": false,
+  "name": "GOLDEN: Virtual BODYPUMP",
+  "imin:aggregateOffer": {
+    "publicAdult": {
+      "type": "AggregateOffer",
+      "price": 9.33,
+      "priceCurrency": "GBP",
+      "imin:membershipRequired": false
+    },
+    "publicJunior": {
+      "type": "AggregateOffer",
+      "price": 12.55,
+      "priceCurrency": "GBP",
+      "imin:membershipRequired": false
+    }
+  },
+  "organizer": {
+    "id": "https://lorem-fitsum.herokuapp.com/api/leaders/4639",
+    "url": "http://mathilde.info/profile/16",
+    "name": "Audreanne Kutch",
+    "type": "Person",
+    "email": "Brielle_Stamm@example.net",
+    "image": {
+      "url": "https://s3.amazonaws.com/uifaces/faces/twitter/krasnoukhov/128.jpg",
+      "type": "ImageObject"
+    },
+    "gender": "schema:Male",
+    "jobTitle": "Host",
+    "givenName": "Audreanne",
+    "telephone": "0771 958 4282",
+    "familyName": "Kutch",
+    "identifier": 4639
+  },
+  "id": "https://search-sandbox.imin.co/events-api/v2/event-series/loremfitsum-1539563400",
+  "imin:dataSource": {
+    "type": "WebAPI",
+    "identifier": "loremfitsum"
+  },
+  "@context": [
+    "https://openactive.io/",
+    "https://schema.imin.co/",
+    "https://openactive.io/ns-beta",
+    "http://data.emduk.org/ns/emduk.jsonld"
+  ],
+  "subEvent": [
+    {
+      "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400",
+      "type": "SessionSeries",
+      "leader": [
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/2214",
+          "url": "https://rod.biz/profile/25",
+          "name": "Camila Zulauf",
+          "type": "Person",
+          "email": "Adrienne.Wilderman@example.net",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/bistrianiosip/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Male",
+          "jobTitle": "Host",
+          "givenName": "Camila",
+          "telephone": "0753 062 9992",
+          "familyName": "Zulauf",
+          "identifier": 2214
+        },
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/1257",
+          "url": "http://jayda.biz/profile/33",
+          "name": "Amely Kreiger",
+          "type": "Person",
+          "email": "Michele.Schaden87@example.net",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/antonyzotov/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Male",
+          "jobTitle": "Captain",
+          "givenName": "Amely",
+          "telephone": "0773 096 1279",
+          "familyName": "Kreiger",
+          "identifier": 1257
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#booking-adult",
+          "name": "Adult",
+          "type": "Offer",
+          "price": 9.33,
+          "ageRange": {
+            "type": "QuantitativeValue",
+            "maxValue": 60
+          },
+          "priceCurrency": "GBP",
+          "eligibleCustomerType": [
+            "beta:Member"
+          ],
+          "acceptedPaymentMethod": [
+            "gr:Cash",
+            "gr:PaymentMethodCreditCard"
+          ],
+          "beta:availableChannel": [
+            "beta:OnlinePrepayment",
+            "beta:TelephonePrepayment"
+          ]
+        },
+        {
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#booking-adult (off-peak)",
+          "name": "Adult (Off-peak)",
+          "type": "Offer",
+          "price": 12.19,
+          "ageRange": {
+            "type": "QuantitativeValue",
+            "maxValue": 60
+          },
+          "priceCurrency": "GBP",
+          "eligibleCustomerType": [
+            "beta:Member"
+          ],
+          "acceptedPaymentMethod": [
+            "gr:Cash",
+            "gr:PaymentMethodCreditCard"
+          ],
+          "beta:availableChannel": [
+            "beta:OnlinePrepayment",
+            "beta:TelephonePrepayment"
+          ]
+        },
+        {
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#booking-junior",
+          "name": "Junior",
+          "type": "Offer",
+          "price": 12.55,
+          "ageRange": {
+            "type": "QuantitativeValue",
+            "maxValue": 18
+          },
+          "priceCurrency": "GBP",
+          "eligibleCustomerType": [
+            "beta:Member"
+          ],
+          "acceptedPaymentMethod": [
+            "gr:Cash",
+            "gr:PaymentMethodCreditCard"
+          ],
+          "beta:availableChannel": [
+            "beta:OnlinePrepayment",
+            "beta:TelephonePrepayment"
+          ]
+        },
+        {
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#booking-junior (off-peak)",
+          "name": "Junior (Off-peak)",
+          "type": "Offer",
+          "price": 0.11,
+          "ageRange": {
+            "type": "QuantitativeValue",
+            "maxValue": 18
+          },
+          "priceCurrency": "GBP",
+          "eligibleCustomerType": [
+            "beta:Member"
+          ],
+          "acceptedPaymentMethod": [
+            "gr:Cash",
+            "gr:PaymentMethodCreditCard"
+          ],
+          "beta:availableChannel": [
+            "beta:OnlinePrepayment",
+            "beta:TelephonePrepayment"
+          ]
+        },
+        {
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#booking-senior",
+          "name": "Senior",
+          "type": "Offer",
+          "price": 7.17,
+          "ageRange": {
+            "type": "QuantitativeValue",
+            "minValue": 60
+          },
+          "priceCurrency": "GBP",
+          "eligibleCustomerType": [
+            "beta:Member"
+          ],
+          "acceptedPaymentMethod": [
+            "gr:Cash",
+            "gr:PaymentMethodCreditCard"
+          ],
+          "beta:availableChannel": [
+            "beta:OnlinePrepayment",
+            "beta:TelephonePrepayment"
+          ]
+        }
+      ],
+      "category": [
+        "Group Exercise Classes",
+        "Toning & Strength",
+        "Group Exercise - Virtual"
+      ],
+      "location": {
+        "type": "Place",
+        "id": "#/imin:locationSummary/QbKR3rMCsuaTYPBssMN40XEXyrc%3D"
+      },
+      "subEvent": [
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/opportunities/1539563400#/subEvent/2018-11-01T09:45:00Z",
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#2018-11-01T09:45:00Z",
+          "type": "ScheduledSession",
+          "endDate": "2018-11-01T10:45:00Z",
+          "duration": "PT1H",
+          "startDate": "2018-11-01T09:45:00Z",
+          "identifier": "2018-11-01T09:45:00Z",
+          "eventStatus": "schema:EventScheduled",
+          "maximumAttendeeCapacity": 20,
+          "remainingAttendeeCapacity": 14
+        },
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/opportunities/1539563400#/subEvent/2018-11-03T09:45:00Z",
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#2018-11-03T09:45:00Z",
+          "type": "ScheduledSession",
+          "endDate": "2018-11-03T10:45:00Z",
+          "duration": "PT1H",
+          "startDate": "2018-11-03T09:45:00Z",
+          "identifier": "2018-11-03T09:45:00Z",
+          "eventStatus": "schema:EventScheduled",
+          "maximumAttendeeCapacity": 20,
+          "remainingAttendeeCapacity": 18
+        }
+      ],
+      "identifier": "loremfitsum-1539563400",
+      "contributor": [
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/4548",
+          "url": "http://edd.com/profile/8",
+          "name": "Sabina Schamberger",
+          "type": "Person",
+          "email": "Ashlynn_Prosacco@example.com",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/kerem/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Male",
+          "jobTitle": "Instructor",
+          "givenName": "Sabina",
+          "telephone": "0704 445 5308",
+          "familyName": "Schamberger",
+          "identifier": 4548
+        },
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/4735",
+          "url": "http://jeff.com/profile/6",
+          "name": "Zion Nikolaus",
+          "type": "Person",
+          "email": "Angeline74@example.com",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/ricburton/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Male",
+          "jobTitle": "Leader",
+          "givenName": "Zion",
+          "telephone": "0715 232 4303",
+          "familyName": "Nikolaus",
+          "identifier": 4735
+        },
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/344",
+          "url": "https://hank.co.uk/profile/40",
+          "name": "Austen Kling",
+          "type": "Person",
+          "email": "Oceane.Donnelly31@example.net",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/kkusaa/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Male",
+          "jobTitle": "Team leader",
+          "givenName": "Austen",
+          "telephone": "0748 640 3707",
+          "familyName": "Kling",
+          "identifier": 344
+        },
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/1759",
+          "url": "http://osbaldo.info/profile/39",
+          "name": "Efren Wiza",
+          "type": "Person",
+          "email": "Ron_Senger@example.net",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/thaisselenator_/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Female",
+          "jobTitle": "Captain",
+          "givenName": "Efren",
+          "telephone": "0796 934 9545",
+          "familyName": "Wiza",
+          "identifier": 1759
+        }
+      ],
+      "eventSchedule": [
+        {
+          "type": "PartialSchedule",
+          "byDay": [
+            "schema:Thursday",
+            "schema:Monday",
+            "schema:Wednesday",
+            "schema:Saturday",
+            "schema:Tuesday",
+            "schema:Sunday"
+          ],
+          "endDate": "2018-10-30",
+          "endTime": "09:30",
+          "duration": "PT1H",
+          "startDate": "2018-10-07",
+          "startTime": "08:30",
+          "beta:timeZone": "Europe/London",
+          "repeatFrequency": "P1W",
+          "scheduledEventType": "ScheduledSession"
+        },
+        {
+          "type": "PartialSchedule",
+          "byDay": [
+            "schema:Saturday",
+            "schema:Wednesday",
+            "schema:Thursday",
+            "schema:Sunday"
+          ],
+          "endDate": "2018-11-03",
+          "endTime": "10:45",
+          "duration": "PT1H",
+          "startDate": "2018-10-07",
+          "startTime": "09:45",
+          "beta:timeZone": "Europe/London",
+          "repeatFrequency": "P1W",
+          "scheduledEventType": "ScheduledSession"
+        }
+      ],
+      "schedulingNote": "Sessions may be cancelled with 15 minutes notice, please keep an eye on your e-mail.",
+      "ext:dateCreated": "2018-10-15T00:30:00+00:00",
+      "accessibilitySupport": [
+        {
+          "id": "https://openactive.io/accessibility-support#2bfb7228-5969-4927-8435-38b5005a8771",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Hearing impairment"
+        },
+        {
+          "id": "https://openactive.io/accessibility-support#69b689d4-be04-4e6d-be56-4ac72ec82444",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Social or behavioural problems"
+        },
+        {
+          "id": "https://openactive.io/accessibility-support#dd026873-6713-4ea1-af5a-08901f651d98",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Physical impairment"
+        },
+        {
+          "id": "https://openactive.io/accessibility-support#67902468-fd49-4238-8650-20a22d7f0e40",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Learning impairment"
+        },
+        {
+          "id": "https://openactive.io/accessibility-support#1393f2dc-3fcc-4be9-a99f-f1e51f5ad277",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Visual impairment"
+        },
+        {
+          "id": "https://openactive.io/accessibility-support#40b9b11f-bdd3-4aeb-8984-2ecf74a14c7a",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Mental health issues"
+        }
+      ],
+      "attendeeInstructions": "Clothing instructions: wear sportswear/gym clothes, wear comfortable loose clothing, come as you are, bring trainers, wear flat shoes, no footwear required.\n\nEquipment you need to bring: a water bottle, a sweat towel, hand weights, an exercise mat, boxing gloves, a skipping rope, a stretch band, a locker padlock, parking/locker money.",
+      "maximumAttendeeCapacity": 20,
+      "accessibilityInformation": "Sit quod expedita qui consequuntur quidem. Voluptatem dicta est suscipit blanditiis dicta labore. Quas nobis et voluptas. Eius sunt vitae ut quia et ratione quam. Rerum officia facilis dolores eum.\n \rAutem voluptatem nemo accusamus quae fugiat. Eligendi animi et error officia voluptates numquam et culpa ut. Et non inventore. Culpa quia sapiente soluta eum excepturi autem. Porro voluptatum recusandae molestiae. Ut doloremque dolores voluptatem odio eum ut.",
+      "emduk:specialRequirement": [
+        {
+          "id": "http://data.emduk.org/special-requirements#135ff50d-c3af-4db2-a491-b68070874d21",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Multiple Sclerosis"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#2eba5bcc-ac8b-4d1b-beeb-d62bb10e7a0d",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Osteoporosis"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#60bd020e-13a7-4e00-890e-89d6ad157083",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Post Natal"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#20c1a0c6-cf75-4d6a-b7c3-3c083ec46ce0",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Dementia"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#06b78897-6efa-431f-b76b-382de3a6b05f",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Weight Management"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#b079c5db-44d9-4bf5-936d-8ac0b1ea31e7",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Stroke"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#68dd5e97-baad-497f-8da4-4c3bcb8ca1a4",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Post Breast Cancer"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#88ce3d1a-b49c-4edc-a24e-8c3a29dbc4f3",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Pregnancy"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#56ec6bb7-2272-4c7b-970f-d1af7bf94269",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Back care"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#736f74df-0c3f-4314-9bd5-eec6b9c2f34f",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Adult Education"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#dbb8a138-3ce9-4298-9e51-9f9011d8f6e4",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Residential Home / Day centre"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#15caac99-83b7-4963-8ec0-183050779a3d",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Cardiac Rehabilitation"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#ba2291c0-252c-4616-a2a0-4863cb04cd25",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Cancer support"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#f5c631fc-51d8-4252-89c4-e5a6e17bbfd9",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Parkinsons"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#e5db28d6-93ef-463e-8626-f143f55f619c",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Autism"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#c4bceff4-39a5-4e39-b16a-873ed79bc498",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "GP Referral"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#54031d85-b037-477d-98c4-2739d0e6ef44",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "RNIB"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#2fa48dbf-0165-433c-9b15-604afb5248b3",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Chair based"
+        }
+      ]
+    },
+    {
+      "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400",
+      "type": "SessionSeries",
+      "leader": [
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/2214",
+          "url": "https://rod.biz/profile/25",
+          "name": "Camila Zulauf",
+          "type": "Person",
+          "email": "Adrienne.Wilderman@example.net",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/bistrianiosip/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Male",
+          "jobTitle": "Host",
+          "givenName": "Camila",
+          "telephone": "0753 062 9992",
+          "familyName": "Zulauf",
+          "identifier": 2214
+        },
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/1257",
+          "url": "http://jayda.biz/profile/33",
+          "name": "Amely Kreiger",
+          "type": "Person",
+          "email": "Michele.Schaden87@example.net",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/antonyzotov/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Male",
+          "jobTitle": "Captain",
+          "givenName": "Amely",
+          "telephone": "0773 096 1279",
+          "familyName": "Kreiger",
+          "identifier": 1257
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#booking-adult",
+          "name": "Adult",
+          "type": "Offer",
+          "price": 9.33,
+          "ageRange": {
+            "type": "QuantitativeValue",
+            "maxValue": 60
+          },
+          "priceCurrency": "GBP",
+          "eligibleCustomerType": [
+            "beta:Member"
+          ],
+          "acceptedPaymentMethod": [
+            "gr:Cash",
+            "gr:PaymentMethodCreditCard"
+          ],
+          "beta:availableChannel": [
+            "beta:OnlinePrepayment",
+            "beta:TelephonePrepayment"
+          ]
+        },
+        {
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#booking-adult (off-peak)",
+          "name": "Adult (Off-peak)",
+          "type": "Offer",
+          "price": 12.19,
+          "ageRange": {
+            "type": "QuantitativeValue",
+            "maxValue": 60
+          },
+          "priceCurrency": "GBP",
+          "eligibleCustomerType": [
+            "beta:Member"
+          ],
+          "acceptedPaymentMethod": [
+            "gr:Cash",
+            "gr:PaymentMethodCreditCard"
+          ],
+          "beta:availableChannel": [
+            "beta:OnlinePrepayment",
+            "beta:TelephonePrepayment"
+          ]
+        },
+        {
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#booking-junior",
+          "name": "Junior",
+          "type": "Offer",
+          "price": 12.55,
+          "ageRange": {
+            "type": "QuantitativeValue",
+            "maxValue": 18
+          },
+          "priceCurrency": "GBP",
+          "eligibleCustomerType": [
+            "beta:Member"
+          ],
+          "acceptedPaymentMethod": [
+            "gr:Cash",
+            "gr:PaymentMethodCreditCard"
+          ],
+          "beta:availableChannel": [
+            "beta:OnlinePrepayment",
+            "beta:TelephonePrepayment"
+          ]
+        },
+        {
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#booking-junior (off-peak)",
+          "name": "Junior (Off-peak)",
+          "type": "Offer",
+          "price": 0.11,
+          "ageRange": {
+            "type": "QuantitativeValue",
+            "maxValue": 18
+          },
+          "priceCurrency": "GBP",
+          "eligibleCustomerType": [
+            "beta:Member"
+          ],
+          "acceptedPaymentMethod": [
+            "gr:Cash",
+            "gr:PaymentMethodCreditCard"
+          ],
+          "beta:availableChannel": [
+            "beta:OnlinePrepayment",
+            "beta:TelephonePrepayment"
+          ]
+        },
+        {
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#booking-senior",
+          "name": "Senior",
+          "type": "Offer",
+          "price": 7.17,
+          "ageRange": {
+            "type": "QuantitativeValue",
+            "minValue": 60
+          },
+          "priceCurrency": "GBP",
+          "eligibleCustomerType": [
+            "beta:Member"
+          ],
+          "acceptedPaymentMethod": [
+            "gr:Cash",
+            "gr:PaymentMethodCreditCard"
+          ],
+          "beta:availableChannel": [
+            "beta:OnlinePrepayment",
+            "beta:TelephonePrepayment"
+          ]
+        }
+      ],
+      "category": [
+        "Group Exercise Classes",
+        "Toning & Strength",
+        "Group Exercise - Virtual"
+      ],
+      "location": {
+        "type": "Place",
+        "id": "#/imin:locationSummary/LcJqhhNU8kuPHGbw2VsX68gKcBg%3D"
+      },
+      "subEvent": [
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/opportunities/1539563400#/subEvent/2018-11-01T09:45:00Z",
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#2018-11-01T09:45:00Z",
+          "type": "ScheduledSession",
+          "endDate": "2018-11-01T11:45:00Z",
+          "duration": "PT1H",
+          "startDate": "2018-11-01T10:45:00Z",
+          "identifier": "2018-11-01T09:45:00Z",
+          "eventStatus": "schema:EventScheduled",
+          "maximumAttendeeCapacity": 20,
+          "remainingAttendeeCapacity": 14
+        },
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/opportunities/1539563400#/subEvent/2018-11-03T09:45:00Z",
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#2018-11-03T09:45:00Z",
+          "type": "ScheduledSession",
+          "endDate": "2018-11-03T11:45:00Z",
+          "duration": "PT1H",
+          "startDate": "2018-11-03T10:45:00Z",
+          "identifier": "2018-11-03T09:45:00Z",
+          "eventStatus": "schema:EventScheduled",
+          "maximumAttendeeCapacity": 20,
+          "remainingAttendeeCapacity": 18
+        }
+      ],
+      "identifier": "loremfitsum-1539563400",
+      "contributor": [
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/4548",
+          "url": "http://edd.com/profile/8",
+          "name": "Sabina Schamberger",
+          "type": "Person",
+          "email": "Ashlynn_Prosacco@example.com",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/kerem/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Male",
+          "jobTitle": "Instructor",
+          "givenName": "Sabina",
+          "telephone": "0704 445 5308",
+          "familyName": "Schamberger",
+          "identifier": 4548
+        },
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/4735",
+          "url": "http://jeff.com/profile/6",
+          "name": "Zion Nikolaus",
+          "type": "Person",
+          "email": "Angeline74@example.com",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/ricburton/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Male",
+          "jobTitle": "Leader",
+          "givenName": "Zion",
+          "telephone": "0715 232 4303",
+          "familyName": "Nikolaus",
+          "identifier": 4735
+        },
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/344",
+          "url": "https://hank.co.uk/profile/40",
+          "name": "Austen Kling",
+          "type": "Person",
+          "email": "Oceane.Donnelly31@example.net",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/kkusaa/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Male",
+          "jobTitle": "Team leader",
+          "givenName": "Austen",
+          "telephone": "0748 640 3707",
+          "familyName": "Kling",
+          "identifier": 344
+        },
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/1759",
+          "url": "http://osbaldo.info/profile/39",
+          "name": "Efren Wiza",
+          "type": "Person",
+          "email": "Ron_Senger@example.net",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/thaisselenator_/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Female",
+          "jobTitle": "Captain",
+          "givenName": "Efren",
+          "telephone": "0796 934 9545",
+          "familyName": "Wiza",
+          "identifier": 1759
+        }
+      ],
+      "eventSchedule": [
+        {
+          "type": "PartialSchedule",
+          "byDay": [
+            "schema:Thursday",
+            "schema:Monday",
+            "schema:Wednesday",
+            "schema:Saturday",
+            "schema:Tuesday",
+            "schema:Sunday"
+          ],
+          "endDate": "2018-10-30",
+          "endTime": "10:30",
+          "duration": "PT1H",
+          "startDate": "2018-10-07",
+          "startTime": "09:30",
+          "beta:timeZone": "Europe/London",
+          "repeatFrequency": "P1W",
+          "scheduledEventType": "ScheduledSession"
+        },
+        {
+          "type": "PartialSchedule",
+          "byDay": [
+            "schema:Saturday",
+            "schema:Wednesday",
+            "schema:Thursday",
+            "schema:Sunday"
+          ],
+          "endDate": "2018-11-03",
+          "endTime": "11:45",
+          "duration": "PT1H",
+          "startDate": "2018-10-07",
+          "startTime": "10:45",
+          "beta:timeZone": "Europe/London",
+          "repeatFrequency": "P1W",
+          "scheduledEventType": "ScheduledSession"
+        }
+      ],
+      "schedulingNote": "Sessions may be cancelled with 15 minutes notice, please keep an eye on your e-mail.",
+      "ext:dateCreated": "2018-10-15T00:30:00+00:00",
+      "accessibilitySupport": [
+        {
+          "id": "https://openactive.io/accessibility-support#2bfb7228-5969-4927-8435-38b5005a8771",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Hearing impairment"
+        },
+        {
+          "id": "https://openactive.io/accessibility-support#69b689d4-be04-4e6d-be56-4ac72ec82444",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Social or behavioural problems"
+        },
+        {
+          "id": "https://openactive.io/accessibility-support#dd026873-6713-4ea1-af5a-08901f651d98",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Physical impairment"
+        },
+        {
+          "id": "https://openactive.io/accessibility-support#67902468-fd49-4238-8650-20a22d7f0e40",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Learning impairment"
+        },
+        {
+          "id": "https://openactive.io/accessibility-support#1393f2dc-3fcc-4be9-a99f-f1e51f5ad277",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Visual impairment"
+        },
+        {
+          "id": "https://openactive.io/accessibility-support#40b9b11f-bdd3-4aeb-8984-2ecf74a14c7a",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Mental health issues"
+        }
+      ],
+      "attendeeInstructions": "Clothing instructions: wear sportswear/gym clothes, wear comfortable loose clothing, come as you are, bring trainers, wear flat shoes, no footwear required.\n\nEquipment you need to bring: a water bottle, a sweat towel, hand weights, an exercise mat, boxing gloves, a skipping rope, a stretch band, a locker padlock, parking/locker money.",
+      "maximumAttendeeCapacity": 20,
+      "accessibilityInformation": "Sit quod expedita qui consequuntur quidem. Voluptatem dicta est suscipit blanditiis dicta labore. Quas nobis et voluptas. Eius sunt vitae ut quia et ratione quam. Rerum officia facilis dolores eum.\n \rAutem voluptatem nemo accusamus quae fugiat. Eligendi animi et error officia voluptates numquam et culpa ut. Et non inventore. Culpa quia sapiente soluta eum excepturi autem. Porro voluptatum recusandae molestiae. Ut doloremque dolores voluptatem odio eum ut.",
+      "emduk:specialRequirement": [
+        {
+          "id": "http://data.emduk.org/special-requirements#135ff50d-c3af-4db2-a491-b68070874d21",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Multiple Sclerosis"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#2eba5bcc-ac8b-4d1b-beeb-d62bb10e7a0d",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Osteoporosis"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#60bd020e-13a7-4e00-890e-89d6ad157083",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Post Natal"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#20c1a0c6-cf75-4d6a-b7c3-3c083ec46ce0",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Dementia"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#06b78897-6efa-431f-b76b-382de3a6b05f",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Weight Management"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#b079c5db-44d9-4bf5-936d-8ac0b1ea31e7",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Stroke"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#68dd5e97-baad-497f-8da4-4c3bcb8ca1a4",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Post Breast Cancer"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#88ce3d1a-b49c-4edc-a24e-8c3a29dbc4f3",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Pregnancy"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#56ec6bb7-2272-4c7b-970f-d1af7bf94269",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Back care"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#736f74df-0c3f-4314-9bd5-eec6b9c2f34f",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Adult Education"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#dbb8a138-3ce9-4298-9e51-9f9011d8f6e4",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Residential Home / Day centre"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#15caac99-83b7-4963-8ec0-183050779a3d",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Cardiac Rehabilitation"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#ba2291c0-252c-4616-a2a0-4863cb04cd25",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Cancer support"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#f5c631fc-51d8-4252-89c4-e5a6e17bbfd9",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Parkinsons"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#e5db28d6-93ef-463e-8626-f143f55f619c",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Autism"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#c4bceff4-39a5-4e39-b16a-873ed79bc498",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "GP Referral"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#54031d85-b037-477d-98c4-2739d0e6ef44",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "RNIB"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#2fa48dbf-0165-433c-9b15-604afb5248b3",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Chair based"
+        }
+      ]
+    },
+    {
+      "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400",
+      "type": "SessionSeries",
+      "leader": [
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/2214",
+          "url": "https://rod.biz/profile/25",
+          "name": "Camila Zulauf",
+          "type": "Person",
+          "email": "Adrienne.Wilderman@example.net",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/bistrianiosip/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Male",
+          "jobTitle": "Host",
+          "givenName": "Camila",
+          "telephone": "0753 062 9992",
+          "familyName": "Zulauf",
+          "identifier": 2214
+        },
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/1257",
+          "url": "http://jayda.biz/profile/33",
+          "name": "Amely Kreiger",
+          "type": "Person",
+          "email": "Michele.Schaden87@example.net",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/antonyzotov/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Male",
+          "jobTitle": "Captain",
+          "givenName": "Amely",
+          "telephone": "0773 096 1279",
+          "familyName": "Kreiger",
+          "identifier": 1257
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#booking-adult",
+          "name": "Adult",
+          "type": "Offer",
+          "price": 9.33,
+          "ageRange": {
+            "type": "QuantitativeValue",
+            "maxValue": 60
+          },
+          "priceCurrency": "GBP",
+          "eligibleCustomerType": [
+            "beta:Member"
+          ],
+          "acceptedPaymentMethod": [
+            "gr:Cash",
+            "gr:PaymentMethodCreditCard"
+          ],
+          "beta:availableChannel": [
+            "beta:OnlinePrepayment",
+            "beta:TelephonePrepayment"
+          ]
+        },
+        {
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#booking-adult (off-peak)",
+          "name": "Adult (Off-peak)",
+          "type": "Offer",
+          "price": 12.19,
+          "ageRange": {
+            "type": "QuantitativeValue",
+            "maxValue": 60
+          },
+          "priceCurrency": "GBP",
+          "eligibleCustomerType": [
+            "beta:Member"
+          ],
+          "acceptedPaymentMethod": [
+            "gr:Cash",
+            "gr:PaymentMethodCreditCard"
+          ],
+          "beta:availableChannel": [
+            "beta:OnlinePrepayment",
+            "beta:TelephonePrepayment"
+          ]
+        },
+        {
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#booking-junior",
+          "name": "Junior",
+          "type": "Offer",
+          "price": 12.55,
+          "ageRange": {
+            "type": "QuantitativeValue",
+            "maxValue": 18
+          },
+          "priceCurrency": "GBP",
+          "eligibleCustomerType": [
+            "beta:Member"
+          ],
+          "acceptedPaymentMethod": [
+            "gr:Cash",
+            "gr:PaymentMethodCreditCard"
+          ],
+          "beta:availableChannel": [
+            "beta:OnlinePrepayment",
+            "beta:TelephonePrepayment"
+          ]
+        },
+        {
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#booking-junior (off-peak)",
+          "name": "Junior (Off-peak)",
+          "type": "Offer",
+          "price": 0.11,
+          "ageRange": {
+            "type": "QuantitativeValue",
+            "maxValue": 18
+          },
+          "priceCurrency": "GBP",
+          "eligibleCustomerType": [
+            "beta:Member"
+          ],
+          "acceptedPaymentMethod": [
+            "gr:Cash",
+            "gr:PaymentMethodCreditCard"
+          ],
+          "beta:availableChannel": [
+            "beta:OnlinePrepayment",
+            "beta:TelephonePrepayment"
+          ]
+        },
+        {
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#booking-senior",
+          "name": "Senior",
+          "type": "Offer",
+          "price": 7.17,
+          "ageRange": {
+            "type": "QuantitativeValue",
+            "minValue": 60
+          },
+          "priceCurrency": "GBP",
+          "eligibleCustomerType": [
+            "beta:Member"
+          ],
+          "acceptedPaymentMethod": [
+            "gr:Cash",
+            "gr:PaymentMethodCreditCard"
+          ],
+          "beta:availableChannel": [
+            "beta:OnlinePrepayment",
+            "beta:TelephonePrepayment"
+          ]
+        }
+      ],
+      "category": [
+        "Group Exercise Classes",
+        "Toning & Strength",
+        "Group Exercise - Virtual"
+      ],
+      "location": {
+        "type": "Place",
+        "id": "#/imin:locationSummary/9MXiPtkwkO6ZbSUXYBxYhbgerSo%3D"
+      },
+      "subEvent": [
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/opportunities/1539563400#/subEvent/2018-11-01T09:45:00Z",
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#2018-11-01T09:45:00Z",
+          "type": "ScheduledSession",
+          "endDate": "2018-11-01T09:45:00Z",
+          "duration": "PT1H",
+          "startDate": "2018-11-01T08:45:00Z",
+          "identifier": "2018-11-01T09:45:00Z",
+          "eventStatus": "schema:EventScheduled",
+          "maximumAttendeeCapacity": 20,
+          "remainingAttendeeCapacity": 14
+        },
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/opportunities/1539563400#/subEvent/2018-11-03T09:45:00Z",
+          "url": "https://lorem-fitsum.herokuapp.com/listings/1539563400#2018-11-03T09:45:00Z",
+          "type": "ScheduledSession",
+          "endDate": "2018-11-03T09:45:00Z",
+          "duration": "PT1H",
+          "startDate": "2018-11-03T08:45:00Z",
+          "identifier": "2018-11-03T09:45:00Z",
+          "eventStatus": "schema:EventScheduled",
+          "maximumAttendeeCapacity": 20,
+          "remainingAttendeeCapacity": 18
+        }
+      ],
+      "identifier": "loremfitsum-1539563400",
+      "contributor": [
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/4548",
+          "url": "http://edd.com/profile/8",
+          "name": "Sabina Schamberger",
+          "type": "Person",
+          "email": "Ashlynn_Prosacco@example.com",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/kerem/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Male",
+          "jobTitle": "Instructor",
+          "givenName": "Sabina",
+          "telephone": "0704 445 5308",
+          "familyName": "Schamberger",
+          "identifier": 4548
+        },
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/4735",
+          "url": "http://jeff.com/profile/6",
+          "name": "Zion Nikolaus",
+          "type": "Person",
+          "email": "Angeline74@example.com",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/ricburton/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Male",
+          "jobTitle": "Leader",
+          "givenName": "Zion",
+          "telephone": "0715 232 4303",
+          "familyName": "Nikolaus",
+          "identifier": 4735
+        },
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/344",
+          "url": "https://hank.co.uk/profile/40",
+          "name": "Austen Kling",
+          "type": "Person",
+          "email": "Oceane.Donnelly31@example.net",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/kkusaa/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Male",
+          "jobTitle": "Team leader",
+          "givenName": "Austen",
+          "telephone": "0748 640 3707",
+          "familyName": "Kling",
+          "identifier": 344
+        },
+        {
+          "id": "https://lorem-fitsum.herokuapp.com/api/leaders/1759",
+          "url": "http://osbaldo.info/profile/39",
+          "name": "Efren Wiza",
+          "type": "Person",
+          "email": "Ron_Senger@example.net",
+          "image": {
+            "url": "https://s3.amazonaws.com/uifaces/faces/twitter/thaisselenator_/128.jpg",
+            "type": "ImageObject"
+          },
+          "gender": "schema:Female",
+          "jobTitle": "Captain",
+          "givenName": "Efren",
+          "telephone": "0796 934 9545",
+          "familyName": "Wiza",
+          "identifier": 1759
+        }
+      ],
+      "eventSchedule": [
+        {
+          "type": "PartialSchedule",
+          "byDay": [
+            "schema:Thursday",
+            "schema:Monday",
+            "schema:Wednesday",
+            "schema:Saturday",
+            "schema:Tuesday",
+            "schema:Sunday"
+          ],
+          "endDate": "2018-10-30",
+          "endTime": "08:30",
+          "duration": "PT1H",
+          "startDate": "2018-10-07",
+          "startTime": "07:30",
+          "beta:timeZone": "Europe/London",
+          "repeatFrequency": "P1W",
+          "scheduledEventType": "ScheduledSession"
+        },
+        {
+          "type": "PartialSchedule",
+          "byDay": [
+            "schema:Saturday",
+            "schema:Wednesday",
+            "schema:Thursday",
+            "schema:Sunday"
+          ],
+          "endDate": "2018-11-03",
+          "endTime": "09:45",
+          "duration": "PT1H",
+          "startDate": "2018-10-07",
+          "startTime": "08:45",
+          "beta:timeZone": "Europe/London",
+          "repeatFrequency": "P1W",
+          "scheduledEventType": "ScheduledSession"
+        }
+      ],
+      "schedulingNote": "Sessions may be cancelled with 15 minutes notice, please keep an eye on your e-mail.",
+      "ext:dateCreated": "2018-10-15T00:30:00+00:00",
+      "accessibilitySupport": [
+        {
+          "id": "https://openactive.io/accessibility-support#2bfb7228-5969-4927-8435-38b5005a8771",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Hearing impairment"
+        },
+        {
+          "id": "https://openactive.io/accessibility-support#69b689d4-be04-4e6d-be56-4ac72ec82444",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Social or behavioural problems"
+        },
+        {
+          "id": "https://openactive.io/accessibility-support#dd026873-6713-4ea1-af5a-08901f651d98",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Physical impairment"
+        },
+        {
+          "id": "https://openactive.io/accessibility-support#67902468-fd49-4238-8650-20a22d7f0e40",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Learning impairment"
+        },
+        {
+          "id": "https://openactive.io/accessibility-support#1393f2dc-3fcc-4be9-a99f-f1e51f5ad277",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Visual impairment"
+        },
+        {
+          "id": "https://openactive.io/accessibility-support#40b9b11f-bdd3-4aeb-8984-2ecf74a14c7a",
+          "type": "Concept",
+          "inScheme": "https://openactive.io/accessibility-support",
+          "prefLabel": "Mental health issues"
+        }
+      ],
+      "attendeeInstructions": "Clothing instructions: wear sportswear/gym clothes, wear comfortable loose clothing, come as you are, bring trainers, wear flat shoes, no footwear required.\n\nEquipment you need to bring: a water bottle, a sweat towel, hand weights, an exercise mat, boxing gloves, a skipping rope, a stretch band, a locker padlock, parking/locker money.",
+      "maximumAttendeeCapacity": 20,
+      "accessibilityInformation": "Sit quod expedita qui consequuntur quidem. Voluptatem dicta est suscipit blanditiis dicta labore. Quas nobis et voluptas. Eius sunt vitae ut quia et ratione quam. Rerum officia facilis dolores eum.\n \rAutem voluptatem nemo accusamus quae fugiat. Eligendi animi et error officia voluptates numquam et culpa ut. Et non inventore. Culpa quia sapiente soluta eum excepturi autem. Porro voluptatum recusandae molestiae. Ut doloremque dolores voluptatem odio eum ut.",
+      "emduk:specialRequirement": [
+        {
+          "id": "http://data.emduk.org/special-requirements#135ff50d-c3af-4db2-a491-b68070874d21",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Multiple Sclerosis"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#2eba5bcc-ac8b-4d1b-beeb-d62bb10e7a0d",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Osteoporosis"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#60bd020e-13a7-4e00-890e-89d6ad157083",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Post Natal"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#20c1a0c6-cf75-4d6a-b7c3-3c083ec46ce0",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Dementia"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#06b78897-6efa-431f-b76b-382de3a6b05f",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Weight Management"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#b079c5db-44d9-4bf5-936d-8ac0b1ea31e7",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Stroke"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#68dd5e97-baad-497f-8da4-4c3bcb8ca1a4",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Post Breast Cancer"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#88ce3d1a-b49c-4edc-a24e-8c3a29dbc4f3",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Pregnancy"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#56ec6bb7-2272-4c7b-970f-d1af7bf94269",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Back care"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#736f74df-0c3f-4314-9bd5-eec6b9c2f34f",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Adult Education"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#dbb8a138-3ce9-4298-9e51-9f9011d8f6e4",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Residential Home / Day centre"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#15caac99-83b7-4963-8ec0-183050779a3d",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Cardiac Rehabilitation"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#ba2291c0-252c-4616-a2a0-4863cb04cd25",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Cancer support"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#f5c631fc-51d8-4252-89c4-e5a6e17bbfd9",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Parkinsons"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#e5db28d6-93ef-463e-8626-f143f55f619c",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Autism"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#c4bceff4-39a5-4e39-b16a-873ed79bc498",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "GP Referral"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#54031d85-b037-477d-98c4-2739d0e6ef44",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "RNIB"
+        },
+        {
+          "id": "http://data.emduk.org/special-requirements#2fa48dbf-0165-433c-9b15-604afb5248b3",
+          "type": "Concept",
+          "inScheme": "http://data.emduk.org/special-requirements/special-requirements.jsonld",
+          "prefLabel": "Chair based"
+        }
+      ]
+    }
+  ],
+  "imin:locationSummary": [
+    {
+      "geo": {
+        "type": "GeoCoordinates",
+        "latitude": 51.71858123,
+        "longitude": -1.193313285
+      },
+      "url": "https://yesenia.co.uk/centres/rowan-burg-leisure-centre",
+      "name": "Rowan Burg Leisure Centre",
+      "type": "Place",
+      "image": [
+        {
+          "url": "https://picsum.photos/1024/768?image=476",
+          "type": "ImageObject",
+          "thumbnail": [
+            {
+              "url": "https://picsum.photos/300/200?image=476",
+              "type": "ImageObject",
+              "width": "300 px",
+              "height": "200 px"
+            }
+          ]
+        },
+        {
+          "url": "https://picsum.photos/1024/768?image=119",
+          "type": "ImageObject",
+          "thumbnail": [
+            {
+              "url": "https://picsum.photos/100/100?image=119",
+              "type": "ImageObject",
+              "width": "100 px",
+              "height": "100 px"
+            }
+          ]
+        },
+        {
+          "url": "https://picsum.photos/1024/768?image=204",
+          "type": "ImageObject",
+          "thumbnail": [
+            {
+              "url": "https://picsum.photos/300/200?image=204",
+              "type": "ImageObject",
+              "width": "300 px",
+              "height": "200 px"
+            },
+            {
+              "url": "https://picsum.photos/672/414?image=204",
+              "type": "ImageObject",
+              "width": "672 px",
+              "height": "414 px"
+            },
+            {
+              "url": "https://picsum.photos/100/100?image=204",
+              "type": "ImageObject",
+              "width": "100 px",
+              "height": "100 px"
+            }
+          ]
+        },
+        {
+          "url": "https://picsum.photos/1024/768?image=1080",
+          "type": "ImageObject"
+        }
+      ],
+      "address": {
+        "type": "PostalAddress",
+        "postalCode": "OX4 6QD",
+        "addressRegion": "Oxfordshire",
+        "streetAddress": "023 Gloria Fall",
+        "addressCountry": "GB",
+        "addressLocality": "Oxford",
+        "imin:fullAddress": "Rowan Burg Leisure Centre, 023 Gloria Fall, Oxford, Oxfordshire, OX4 6QD"
+      },
+      "telephone": "010004 62025",
+      "identifier": "LCMOCYP1244",
+      "description": "Voluptatem sed esse non eum error. Ipsa et ducimus corporis totam aliquid quo. Possimus hic atque harum tenetur aut excepturi quos nobis.\n \rEt similique vel. Suscipit mollitia qui. Iusto enim ut debitis laboriosam. Laudantium quam fugit autem eaque rerum autem. Omnis perferendis impedit ut quae et facere.\n \rNecessitatibus dicta laborum provident dolore velit explicabo voluptas quia perspiciatis. Quos et est eum. Velit eaque commodi nostrum sequi. Suscipit ab autem veniam suscipit dolorum non molestiae dolor. In nobis quam beatae debitis qui ab officiis.\n \rQuas atque rem. Rerum corporis molestiae praesentium minima. Quod necessitatibus labore et est. Ut consequatur facilis est at.",
+      "amenityFeature": [
+        {
+          "name": "Changing Facilities",
+          "type": "ChangingFacilities",
+          "value": true
+        },
+        {
+          "name": "Showers",
+          "type": "Showers",
+          "value": true
+        },
+        {
+          "name": "Lockers",
+          "type": "Lockers",
+          "value": true
+        },
+        {
+          "name": "Towels",
+          "type": "Towels",
+          "value": true
+        },
+        {
+          "name": "Creche",
+          "type": "Creche",
+          "value": true
+        },
+        {
+          "name": "Parking",
+          "type": "Parking",
+          "value": false
+        }
+      ],
+      "openingHoursSpecification": [
+        {
+          "type": "OpeningHoursSpecification",
+          "opens": "09:00",
+          "closes": "17:30",
+          "dayOfWeek": "schema:Sunday"
+        },
+        {
+          "type": "OpeningHoursSpecification",
+          "opens": "06:30",
+          "closes": "21:30",
+          "dayOfWeek": "schema:Monday"
+        },
+        {
+          "type": "OpeningHoursSpecification",
+          "opens": "06:30",
+          "closes": "21:30",
+          "dayOfWeek": "schema:Tuesday"
+        },
+        {
+          "type": "OpeningHoursSpecification",
+          "opens": "06:30",
+          "closes": "21:30",
+          "dayOfWeek": "schema:Wednesday"
+        },
+        {
+          "type": "OpeningHoursSpecification",
+          "opens": "06:30",
+          "closes": "21:30",
+          "dayOfWeek": "schema:Thursday"
+        },
+        {
+          "type": "OpeningHoursSpecification",
+          "opens": "06:30",
+          "closes": "20:30",
+          "dayOfWeek": "schema:Friday"
+        },
+        {
+          "type": "OpeningHoursSpecification",
+          "opens": "07:15",
+          "closes": "17:30",
+          "dayOfWeek": "schema:Saturday"
+        }
+      ],
+      "id": "#/imin:locationSummary/QbKR3rMCsuaTYPBssMN40XEXyrc%3D"
+    },
+    {
+      "type": "Place",
+      "url": "http://donnie.com/centres/wiza-manors-leisure-centre",
+      "name": "Wiza Manors Leisure Centre",
+      "description": "Rerum reprehenderit nemo hic libero omnis voluptatem architecto laudantium commodi. Nisi ut sit vel ullam id. Tenetur iste non ad quia sit dolores dolorum ipsam nulla.\n \rAut mollitia sunt ut et exercitationem temporibus et. Culpa neque dolor sapiente corrupti magni ea. Deserunt dolorem et dolore saepe distinctio distinctio.\n \rDistinctio sint aut molestias sit provident non quibusdam distinctio. Quia perferendis rem quia neque quia voluptatem. Soluta iure hic. Esse dolorum blanditiis molestiae rem inventore occaecati iste. Aperiam qui et aliquam odit pariatur sint. Ea repudiandae veritatis amet odit quod dolor voluptatem.\n \rVelit consectetur voluptas esse omnis quod et qui. Et reiciendis aut fugit dolor ut voluptatem. Aperiam ad velit cumque ullam. Porro quidem maiores commodi ut ut. Minus minus repellendus consequatur voluptatibus et ab repellendus saepe rerum. Est quae consequatur et.",
+      "address": {
+        "type": "PostalAddress",
+        "addressCountry": "GB",
+        "imin:fullAddress": "Wiza Manors Leisure Centre, 5401 Doyle Forks, Oxford, Oxfordshire, OX4 7UF"
+      },
+      "telephone": "020 9445 4861",
+      "geo": {
+        "type": "GeoCoordinates",
+        "latitude": 51.719787231206,
+        "longitude": -1.1888097064781602
+      },
+      "image": [
+        {
+          "type": "ImageObject",
+          "url": "https://picsum.photos/1024/768?image=1071"
+        }
+      ],
+      "amenityFeature": [
+        {
+          "type": "Showers",
+          "value": true,
+          "name": "Showers"
+        },
+        {
+          "type": "Lockers",
+          "value": true,
+          "name": "Lockers"
+        },
+        {
+          "type": "Creche",
+          "value": true,
+          "name": "Creche"
+        }
+      ],
+      "id": "#/imin:locationSummary/LcJqhhNU8kuPHGbw2VsX68gKcBg%3D"
+    },
+    {
+      "type": "Place",
+      "url": "https://kenny.co.uk/locations/alvera-roads-sports-village",
+      "name": "Alvera Roads Sports Village",
+      "description": "Velit expedita voluptatem repellat voluptatem quasi nostrum eum. Autem amet iste iste autem molestiae est. Et rerum aperiam dignissimos excepturi enim. Voluptas non nulla rem laudantium. Veritatis nihil ratione laboriosam ut ratione exercitationem nihil doloribus. Ex hic ratione.\n \rPossimus ut velit dolor est non suscipit consequuntur ut eum. Qui dignissimos quo non soluta id fugit culpa dolorem ut. Ut reiciendis sit earum expedita illo.\n \rSimilique et debitis magni sit ea. Est nisi odio qui aut dolore aut aspernatur. Eos impedit quae molestiae magni non dolorem. Sunt a voluptatem id est ratione mollitia quia voluptate illo.\n \rVoluptatibus nemo quis illum sunt minima et ratione aut maiores. Sunt quo totam eos quis rem exercitationem non qui eveniet. Sit sint animi.",
+      "address": {
+        "type": "PostalAddress",
+        "addressCountry": "GB",
+        "imin:fullAddress": "Alvera Roads Sports Village, 116 Stamm Creek, Oxford, Oxfordshire, OX4 7UX"
+      },
+      "telephone": "0800 785 4361",
+      "geo": {
+        "type": "GeoCoordinates",
+        "latitude": 51.723909235328,
+        "longitude": -1.1797432016630927
+      },
+      "image": [
+        {
+          "type": "ImageObject",
+          "url": "https://picsum.photos/1024/768?image=775"
+        }
+      ],
+      "amenityFeature": [
+        {
+          "type": "Changing Facilities",
+          "value": true,
+          "name": "Changing Facilities"
+        },
+        {
+          "type": "Showers",
+          "value": true,
+          "name": "Showers"
+        },
+        {
+          "type": "Lockers",
+          "value": true,
+          "name": "Lockers"
+        },
+        {
+          "type": "Creche",
+          "value": true,
+          "name": "Creche"
+        },
+        {
+          "type": "Parking",
+          "value": true,
+          "name": "Parking"
+        }
+      ],
+      "id": "#/imin:locationSummary/9MXiPtkwkO6ZbSUXYBxYhbgerSo%3D"
+    }
+  ]
+}
